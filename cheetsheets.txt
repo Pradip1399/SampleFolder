@@ -1,0 +1,13 @@
+$ git config --global user.name "Pradip Lengare"
+$ git config --global user.email "pradiplaxmanlengare1999@gmail.com"
+$ touch .gitignore
+$ git init
+$ git add .
+$ git commit -m "Initial commit"
+$ git status
+$ git remote add origin git@github.com:Pradip1399/SampleFolder.git
+$ git push origin master
+$ git remote add origin git@github.com:Pradip1399/SampleFolder.git
+$ ssh-keygen -t rsa -b 4096 -C "pradiplaxmanlengare1999@gmail.com"
+$ cat /c/Users/user/.ssh/id_rsa.pub
+$ git push origin master
